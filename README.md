@@ -2,7 +2,9 @@ Parkinson
 ======
 # Introduction<br>
 Prediction of Parkson disease by speech recognition based on pytorch<br>
+![](https://github.com/TomJackson1205/Parkinson/blob/main/models/framework.png)
 Algorithm design based on GaN principle[Parkinson2](https://github.com/Jaker926/Parkinson2)<br>
+
 # Installation
 ```
 python==3.8
@@ -14,8 +16,6 @@ You can get the [data](https://www.heywhale.com/mw/dataset/5eaa823c366f4d002d73a
 ```
 python *_train.py
 ```
-# loss picture<br>
-![](https://github.com/TomJackson1205/Parkinson/blob/main/loss/TQWT_loss.png)
 
 # Results
 
