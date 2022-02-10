@@ -3,7 +3,7 @@ Parkinson
 # Introduction<br>
 Prediction of Parkson disease by speech recognition based on pytorch<br>
 ![](models/framework.png)
-Algorithm design based on GaN principle[Parkinson2](https://github.com/Jaker926/Parkinson2)<br>
+Algorithm design based on GAN principle[Parkinson2](https://github.com/Jaker926/Parkinson2)<br>
 
 # Installation
 ```
