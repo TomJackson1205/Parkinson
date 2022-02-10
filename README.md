@@ -9,7 +9,7 @@ Algorithm design based on GaN principle[Parkinson2](https://github.com/Jaker926/
 # Results
 
 ## table_1
-||prediction||f1|MCC|
+|| prediction | f1 | MCC |
 | :--- | :---: | :---: |
 |Concat| 69.04 | 64.99 | 0.3379 |
 |TQWT| 80.78 | 76.24 | 0.5683 |
@@ -17,7 +17,7 @@ Algorithm design based on GaN principle[Parkinson2](https://github.com/Jaker926/
 |Wavelet| 75 | 85.1 | 0.161 |
 
 ## table_2
-||prediction|recall|f1|MCC|
+|| prediction | recall | f1 | MCC |
 | :--- | :---: | :---: | :---: |
 |Concat_Wavelet| 67.92 | 65.49 | 66.68 | 0.3333 |
 |MFCC_Concat| 69.19 | 67.06 | 68.11 | 0.3618 |
@@ -27,7 +27,7 @@ Algorithm design based on GaN principle[Parkinson2](https://github.com/Jaker926/
 |TQWT_Wavelet| 77.8 | 75.68 | 76.73 | 0.5344 |
 
 ## table_3
-||prediction|recall|f1|MCC|
+|| prediction | recall | f1 | MCC |
 | :--- | :---: | :---: | :---: |
 |TQWT_MFCC_Wavelet| 75.87 | 72.04 | 73.91 | 0.4776 |
 |TQWT_MFCC_Concat| 84.9 | 78.85 | 81.76 | 0.6347 |
